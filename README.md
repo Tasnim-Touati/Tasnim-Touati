@@ -23,7 +23,7 @@ I am particularly passionate about:
 ---
 
 ### 📈 GitHub Stats
-![Tasnim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tasnim_T&show_icons=true&theme=radical)
+![Tasnim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tasnim-Touati&show_icons=true&theme=radical)
 
 ---
 
