@@ -36,5 +36,6 @@ I am particularly passionate about:
 
 ### 📫 Connect with Me
 - 📧 Email: tasnimtouati301@gmail.com  
-- 🔗 LinkedIn: [Tasnim Touati](https://www.linkedin.com/in/tasnim-touati-6a8856310/)  
+- 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-TasnimTouati-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasnim-touati-6a8856310/)
+ [Tasnim Touati](https://www.linkedin.com/in/tasnim-touati-6a8856310/)  
 - 🌐 Portfolio: [GitHub Portfolio](https://github.com/Tasnim-Touati)  
