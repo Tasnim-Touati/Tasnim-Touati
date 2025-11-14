@@ -1,4 +1,5 @@
 # Hi, I’m Tasnim 👋
+![Hello](https://img.shields.io/badge/Hello-👋-brightgreen)
 
 ### About Me
 I’m currently pursuing a Bachelor’s degree in Computer Science, 
