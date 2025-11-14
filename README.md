@@ -1,5 +1,33 @@
-Hello, I’m @tasnim301.
-I am a final-year Computer Science student specializing in Software Engineering and Information Systems, with a strong interest in software development, web technologies, and artificial intelligence.
-I am currently enhancing my skills in Python, Java, PHP, HTML/CSS, SQL, and frameworks such as Angular and Spring Boot, alongside experience with Git, Docker, and cloud platforms.
-I am seeking opportunities to contribute to open-source projects and internships to gain practical experience and apply my knowledge in real-world projects.
-You can reach me at: tasnimtouati301@gmail.com
+# Hi, I’m Tasnim 👋
+
+### About Me
+I’m currently pursuing a Bachelor’s degree in Computer Science, 
+actively honing my programming skills and exploring diverse areas 
+of the IT industry. My journey focuses on building a strong foundation 
+in software development while diving into emerging technologies.
+
+I am particularly passionate about:
+	•	Full-stack development – creating practical, user-friendly applications
+	•	Machine learning & AI – turning data into actionable insights
+	•	Cloud computing – building scalable and reliable systems
+
+---
+
+### Tech Stack
+**Languages:** Python | Java | C | SQL  
+**Web:** HTML | CSS | JavaScript | Angular | Spring Boot  
+**Databases:** MySQL  
+**Tools & Platforms:** Docker | VMware | Git | Linux  
+**Others:** Machine Learning | Cloud Computing  
+
+---
+
+### 📈 GitHub Stats
+![Tasnim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: tasnimtouati301@gmail.com  
+- 🔗 LinkedIn: [Tasnim Touati](https://www.linkedin.com/in/tasnim-touati-6a8856310/)  
+- 🌐 Portfolio: [GitHub Portfolio](https://github.com/Tasnim-Touati)  
