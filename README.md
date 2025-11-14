@@ -15,11 +15,16 @@ I am particularly passionate about:
 ---
 
 ### Tech Stack
-**Languages:** Python | Java | C | SQL  
-**Web:** HTML | CSS | JavaScript | Angular | Spring Boot  
-**Databases:** MySQL  
-**Tools & Platforms:** Docker | VMware | Git | Linux  
-**Others:** Machine Learning | Cloud Computing  
+### 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 
