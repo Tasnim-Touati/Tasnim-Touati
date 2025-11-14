@@ -7,6 +7,7 @@ of the IT industry. My journey focuses on building a strong foundation
 in software development while diving into emerging technologies.
 
 I am particularly passionate about:
+
 	- Full-stack development – creating practical, user-friendly applications
 	- Machine learning & AI – turning data into actionable insights
 	- Cloud computing – building scalable and reliable systems
