@@ -36,6 +36,6 @@ I am particularly passionate about:
 
 ### 📫 Connect with Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tasnim%20Touati-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasnim-touati/)
+[![Linkedin Badge](https://img.shields.io/badge/-Tasnim%20Touati-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/tasnim-touati-6a8856310)
 [![Instagram Badge](https://img.shields.io/badge/-@tassnim.touati-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/tassnim.touati/)
 [![Gmail Badge](https://img.shields.io/badge/-tasnimtouati301@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tasnimtouati301@gmail.com)
